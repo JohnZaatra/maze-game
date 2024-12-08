@@ -52,7 +52,7 @@ The project consists of the following main components:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/maze-game.git
+   git clone https://github.com/JohnZaatra/maze-game.git
    ```
 
 2. Navigate to the project directory:
